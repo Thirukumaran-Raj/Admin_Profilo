@@ -1,0 +1,21 @@
+{
+  "name": "profilo-neocities-site",
+  "version": "1.0.0",
+  "description": "A personal website hosted on Neocities.",
+  "main": "public/index.html",
+  "scripts": {
+    "start": "live-server public",
+    "build": "echo 'No build step required for static site.'"
+  },
+  "keywords": [
+    "neocities",
+    "website",
+    "static"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
